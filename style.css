@@ -2,6 +2,10 @@
     margin:0;
     
 }
+a{
+    text-decoration: unset;
+    color: slategrey;
+}
 /* ********************************************************* 
                     TOP Navbar
 ************************************************************/
@@ -27,10 +31,9 @@
     margin: 10px 10px;
     padding: 5px;
 }
-a{
-    text-decoration: unset;
-    color: slategrey;
-}
+/* ***********************************************************
+                    Main Content
+**************************************************************/
 .logo{
     margin-left: auto;
     margin-right: auto;
@@ -92,7 +95,7 @@ a{
     margin-right: auto;
     margin-top:10px;
     height: 50px;
-}
+}  
 #mainLan{
     list-style-type: none;
     width: 60%;
@@ -107,6 +110,9 @@ a{
 .languages{
     display: inline;
 }
+/*************************************************************
+                    Bottom Nav
+**************************************************************/
 #bottom{
     position: fixed;
     bottom: 0;
@@ -130,7 +136,7 @@ a{
     margin-right: 10px;
 }
 #bott{
-    width: 90%;
+    width: 95%;
     list-style-type: none;
     float: left;
     word-spacing: 10px;
@@ -143,48 +149,5 @@ a{
 .bottomRight{
     float: right;
     font-size: 15px;
-}
-
-
-
-
-
-
-
-/* 
-
-#navbarList{
-    font-family: 'Montserrat', sans-serif;
-    list-style-type: none;
-}
-
-#navbarList li{
-    float: right;
-    margin:10px;
-    padding: 1px;
-}
-
-#top a{
-    color: black;
-    text-decoration: unset;
-}
-
-#bottom{
-    
-}
-
-#googleLogo{    
-    display: block;
-    margin-left: 39%;
-    margin-right: auto;
-    width: 20%;
-    height: 500px;
-}
-
-
-#aa{
-    margin: auto;
-    width: 50%;
     padding: 10px;
-} */
-
+}
