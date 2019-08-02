@@ -1,0 +1,190 @@
+*{
+    margin:0;
+    
+}
+/* ********************************************************* 
+                    TOP Navbar
+************************************************************/
+#top{
+    padding: 0;
+    border: none;
+    float: right;
+    width: 100%;
+}
+#ulTop{
+    list-style-type: none;
+    float: right;
+    margin: 10px;
+    padding: 5px;
+}
+.navPages{
+    display: inline;
+    margin: 10px 10px;
+    padding: 5px;
+}
+.navIcons{
+    display: inline;
+    margin: 10px 10px;
+    padding: 5px;
+}
+a{
+    text-decoration: unset;
+    color: slategrey;
+}
+.logo{
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+#googleLogo{
+    display: block;
+    margin-top: 8%;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    height: 150px;
+}
+#main{
+    float: left;
+    width: 100%;
+}
+.bar{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: 30px;
+}
+#searchBar{
+    height: 100%;
+    width: 98%;
+    border-radius: 20px;
+}
+#searchButton{
+    background-color: white;
+    margin-left: -55px;
+    border: none;
+    height: 100%;
+    width: 5%;
+    border-radius: 20px;
+}
+.searchButtons{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    height: 30px;
+    padding: 10px;
+    margin-top:20px;   
+}
+.but{
+    border: none;
+    width: 49%;
+    height: 40px;
+    letter-spacing: 2px;
+}
+.languageBar{
+    display: block;
+    width: 100%;
+    float: left;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:10px;
+    height: 50px;
+}
+#mainLan{
+    list-style-type: none;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    word-spacing: 5px;
+}
+#lText{
+    display: inline;
+}
+.languages{
+    display: inline;
+}
+#bottom{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: silver;
+}
+#bottom1{
+    margin-left: 40px;
+    height: 40px;
+    width: 20%;
+}
+#country{
+    padding: 10px;
+    font-size: 20px;
+    color: dimgrey;
+}
+#bottom2{
+    margin-left: 40px;
+    float: left;
+    width: 100%;
+    margin-right: 10px;
+}
+#bott{
+    width: 90%;
+    list-style-type: none;
+    float: left;
+    word-spacing: 10px;
+    padding: 10px;
+}
+.bottomNav{
+    display: inline;
+    font-size: 15px;
+}
+.bottomRight{
+    float: right;
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+/* 
+
+#navbarList{
+    font-family: 'Montserrat', sans-serif;
+    list-style-type: none;
+}
+
+#navbarList li{
+    float: right;
+    margin:10px;
+    padding: 1px;
+}
+
+#top a{
+    color: black;
+    text-decoration: unset;
+}
+
+#bottom{
+    
+}
+
+#googleLogo{    
+    display: block;
+    margin-left: 39%;
+    margin-right: auto;
+    width: 20%;
+    height: 500px;
+}
+
+
+#aa{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+} */
+
